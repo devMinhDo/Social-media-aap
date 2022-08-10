@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://minh-do-network.herokuapp.com'
